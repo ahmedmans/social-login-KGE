@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">login task</string>
-    <string name="facebook_app_id">3096658317273059</string> <string name="fb_login_protocol_scheme">fb3096658317273059</string>
-
-    <!-- <string name="app_name">login task</string>
-    <string name="facebook_app_id">3096658317273059</string> 
-    <string name="fb_login_protocol_scheme">fb3096658317273059</string> -->
-</resources>
